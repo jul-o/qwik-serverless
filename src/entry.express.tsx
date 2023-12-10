@@ -35,7 +35,7 @@ const PORT = process.env.PORT ?? 3000;
 const { router, notFound } = createQwikCity({ render, qwikCityPlan, manifest });
 
 // Create the express server
-const app = express();
+export const app = express();
 
 // Enable gzip compression
 // app.use(compression());
