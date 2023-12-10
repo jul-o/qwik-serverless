@@ -1,0 +1,7 @@
+.links {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
