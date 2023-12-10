@@ -1,6 +1,0 @@
-"_functions": {
-    "api/server/entry.express.js": {
-      "memory": 1024,
-      "maxDuration": 10
-    }
-  },
