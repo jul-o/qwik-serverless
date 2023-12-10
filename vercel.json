@@ -1,4 +1,10 @@
 {
+  "functions": {
+    "server/entry.express.js": {
+      "memory": 3000,
+      "maxDuration": 900
+    }
+  },
   "headers": [
     {
       "source": "/build/(.*)",
